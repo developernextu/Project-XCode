@@ -15,5 +15,7 @@
 
 /* Definición de variables */
 /* Comentario Adicional */
+- (int)myVar;
+- (void)setMyVar:(int)newVar;
 @end
 
