@@ -14,6 +14,6 @@
 @property (strong, nonatomic) UIWindow *window;
 
 /* Definición de variables */
-
+/* Comentario Adicional */
 @end
 
