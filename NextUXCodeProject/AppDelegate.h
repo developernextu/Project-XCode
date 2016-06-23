@@ -13,5 +13,8 @@
 /* Starting the code */
 @property (strong, nonatomic) UIWindow *window;
 
+/* Definición de variables */
+(int)myVar;
+(void)setMyVar:(int)newVar;
 @end
 
