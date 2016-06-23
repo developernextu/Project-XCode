@@ -10,8 +10,8 @@
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
+/* Starting the code */
 @property (strong, nonatomic) UIWindow *window;
-
 
 @end
 
